@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 jessica.susanto StafCS 4096 Feb 13 13:29 .
+drwx--x--x  3 jessica.susanto StafCS 4096 Feb 13 13:27 ..
+drwxr-xr-x  8 jessica.susanto StafCS 4096 Feb 13 13:28 .git
+drwxr-xr-x  2 jessica.susanto StafCS 4096 Feb 13 12:57 key
+-rw-r--r--  1 jessica.susanto StafCS    0 Feb 13 13:29 lab01.txt
+drwxr-xr-x  2 jessica.susanto StafCS 4096 Feb 13 12:56 log
+-rw-r--r--  1 jessica.susanto StafCS    7 Feb 13 12:46 README.md
+drwxr-xr-x  2 jessica.susanto StafCS 4096 Feb 13 13:05 sandbox
+drwxr-xr-x  2 jessica.susanto StafCS 4096 Feb 13 13:27 week00
+drwxr-xr-x  2 jessica.susanto StafCS 4096 Feb 13 12:53 week01
+drwxr-xr-x  2 jessica.susanto StafCS 4096 Feb 13 12:53 week02
+drwxr-xr-x  2 jessica.susanto StafCS 4096 Feb 13 12:53 week03
+drwxr-xr-x  2 jessica.susanto StafCS 4096 Feb 13 12:53 week04
+drwxr-xr-x  2 jessica.susanto StafCS 4096 Feb 13 12:54 week05
+drwxr-xr-x  2 jessica.susanto StafCS 4096 Feb 13 12:54 week06
+drwxr-xr-x  2 jessica.susanto StafCS 4096 Feb 13 12:54 week07
+drwxr-xr-x  2 jessica.susanto StafCS 4096 Feb 13 12:54 week08
+drwxr-xr-x  2 jessica.susanto StafCS 4096 Feb 13 12:54 week09
+drwxr-xr-x  2 jessica.susanto StafCS 4096 Feb 13 12:54 week10
+drwxr-xr-x  2 jessica.susanto StafCS 4096 Feb 13 12:57 xtra
+/home/fasilkom/mahasiswa/j/jessica.susanto/os171/week01
