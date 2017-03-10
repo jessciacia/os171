@@ -21,5 +21,8 @@ w03-170226-22:00-PS-doing lab03
 w03-170228-14:00-LR-listening to lecture
 w03-170228-14:30-LR-listening to lecture
 w03-170228-15:00-LR-listening to lecture
+w04-170310-21:30-PS-doing lab03
+w04-170310-22:00-PS-doing lab03
+w04-170310-22:30-PS-doing lab03
 
 
