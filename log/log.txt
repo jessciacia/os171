@@ -21,8 +21,20 @@ w03-170226-22:00-PS-doing lab03
 w03-170228-14:00-LR-listening to lecture
 w03-170228-14:30-LR-listening to lecture
 w03-170228-15:00-LR-listening to lecture
-w04-170310-21:30-PS-doing lab03
-w04-170310-22:00-PS-doing lab03
-w04-170310-22:30-PS-doing lab03
+w04-170310-21:30-PS-doing lab04
+w04-170310-22:00-PS-doing lab04
+w04-170310-22:30-PS-doing lab04
+w03-170314-14:00-LR-listening to lecture
+w03-170314-14:30-LR-listening to lecture
+w03-170314-15:00-LR-listening to lecture
+w03-170316-14:00-LR-listening to lecture
+w03-170316-14:30-LR-listening to lecture
+w03-170316-15:00-LR-listening to lecture
+w03-170316-17:30-LR-reading book
+w03-170316-18:00-LR-reading book
+w05-170318-02:00-PS-doing lab05
+w05-170318-02:30-PS-doing lab05
+w05-170318-03:00-PS-doing lab05
+w05-170318-03:30-PS-doing lab05
 
 
