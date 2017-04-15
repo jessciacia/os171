@@ -36,5 +36,11 @@ w05-170318-02:00-PS-doing lab05
 w05-170318-02:30-PS-doing lab05
 w05-170318-03:00-PS-doing lab05
 w05-170318-03:30-PS-doing lab05
+w06-170411-14:00-LR-listening to lecture
+w06-170411-14:30-LR-listening to lecture
+w06-170411-15:00-LR-listening to lecture
+w06-170413-14:00-LR-listening to lecture
+w06-170413-14:30-LR-listening to lecture
+w06-170413-15:00-LR-listening to lecture
 
 
