@@ -42,5 +42,9 @@ w06-170411-15:00-LR-listening to lecture
 w06-170413-14:00-LR-listening to lecture
 w06-170413-14:30-LR-listening to lecture
 w06-170413-15:00-LR-listening to lecture
-
+w06-170413-08:00-PS-doing lab06
+w06-170413-08:30-PS-doing lab06
+w06-170413-09:00-PS-doing lab06
+w06-170413-09:30-PS-doing lab06
+w06-170413-10:00-PS-doing lab06
 
