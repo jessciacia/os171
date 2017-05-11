@@ -55,5 +55,14 @@ w07-170420-14:30-LR-listening to lecture
 w07-170420-15:00-LR-listening to lecture
 w07-170422-11:00-PS-doing lab07
 w07-170422-11:30-PS-doing lab07
-w07-170422-12:00-PS-doing lab067
+w07-170422-12:00-PS-doing lab07
+w07-170425-14:00-LR-listening to lecture
+w07-170425-14:30-LR-listening to lecture
+w07-170425-15:00-LR-listening to lecture
+w07-170427-14:00-LR-listening to lecture
+w07-170427-14:30-LR-listening to lecture
+w07-170427-15:00-LR-listening to lecture
+w07-170427-16:30-PS-doing lab08
+w07-170427-17:00-PS-doing lab08
+w07-170427-17:30-PS-doing lab08
 
